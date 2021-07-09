@@ -1,0 +1,25 @@
+{
+  "name": "use-toggle-react",
+  "version": "1.0.0",
+  "description": "Custom toggle hook for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garethslinn/useToggle.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "custom",
+    "toggle"
+  ],
+  "author": "G.D.Slinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garethslinn/useToggle/issues"
+  },
+  "homepage": "https://github.com/garethslinn/useToggle#readme"
+}
